@@ -1,3 +1,5 @@
+# as03.py
+# A truth table generator. Given a postfix (p = q would turn into p q =, for example) propositional statement, generates a truth table for that statement.
 def getLength(tokens):
     length = 0
     for token in tokens:

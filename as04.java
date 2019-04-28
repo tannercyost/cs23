@@ -1,10 +1,11 @@
 import java.util.*;
 
 /**
- *
+ * This is a Java version of assignment 4. 
+ * It seems to have some issues displaying the truth tables.
  * @author tanner yost
  */
-public class TruthTables {
+public class as04 {
     /**
      * method getLength returns the number of propositions in the statement
      * @param tokens

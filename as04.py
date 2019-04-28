@@ -1,3 +1,6 @@
+# as04.py
+# Evaluates the truth of a given propositional statement in postfix notation. 
+
 from itertools import product
 
 def findProps(tokens):
